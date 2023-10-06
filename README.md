@@ -86,3 +86,74 @@ This function walks through the specified directory, identifies image files, and
 
 - The weight-based resizing is an approximation. It uses a linear extrapolation based on the original file size, which may not be precise due to compression algorithms.
 - The script is designed to handle `.png`, `.jpg`, and `.jpeg` files by default. Further extensions
+
+## C++ Version
+
+### Installation
+
+#### Windows
+
+1. Install OpenCV using the official [OpenCV for Windows Guide](https://docs.opencv.org/master/d3/d52/tutorial_windows_install.html).
+2. Configure your project to include the OpenCV headers and libraries. You can use CMake or directly configure it in your IDE.
+
+#### Ubuntu
+
+1. Open a terminal and run:
+
+   ```bash
+   sudo apt-get update
+   sudo apt-get install libopencv-dev
+   ```
+
+#### macOS
+
+1. Install Homebrew if you haven't:
+
+   ```bash
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   ```
+
+2. Install OpenCV:
+
+   ```bash
+   brew install opencv
+   ```
+
+### Compilation
+
+#### Windows
+
+1. Open your IDE and configure the project to use OpenCV.
+2. Build the project.
+
+#### Ubuntu
+
+1. Open a terminal and navigate to the directory containing your C++ file.
+2. Run:
+
+   ```bash
+   g++ your_file.cpp -o output_name `pkg-config --cflags --libs opencv4`
+   ```
+
+#### macOS
+
+1. Open a terminal and navigate to the directory containing your C++ file.
+2. Run:
+
+   ```bash
+   g++ your_file.cpp -o output_name `pkg-config --cflags --libs opencv4`
+   ```
+
+### Usage
+
+Replace the placeholders in the `main()` function with appropriate command-line arguments (this part is to be implemented).
+
+1. To execute the program, run:
+
+   ```bash
+   ./output_name
+   ```
+
+#### Examples
+
+Usage examples remain similar to the Python version; however, the command-line argument parsing is yet to be implemented in the C++ version.
