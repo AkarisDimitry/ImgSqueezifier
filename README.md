@@ -1,4 +1,5 @@
-# Batch Image Resizer
+![DALL·E 2023-10-19 04 48 03 - Photo logo with a visual representation of a computer screen displaying a directory of images, with some images visibly transforming or resizing  Feat](https://github.com/AkarisDimitry/ImgSqueezifier/assets/34775621/dd130c3f-2683-4406-885c-62f1e65e9165)# 
+Batch Image Resizer
 
 ## Overview
 
