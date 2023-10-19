@@ -1,5 +1,5 @@
 <img src="https://github.com/AkarisDimitry/ImgSqueezifier/assets/34775621/0468430a-58e6-4a69-af9f-f1b10f280a90" alt="DALL·E 2023-10-19 04 48 03 - Photo logo" width="200" height="200">
-Batch Image Resizer
+# Batch Image Resizer
 
 ## Overview
 
