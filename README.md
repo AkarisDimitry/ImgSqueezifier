@@ -1,4 +1,4 @@
-![DALL·E 2023-10-19 04 48 03 - Photo logo with a visual representation of a computer screen displaying a directory of images, with some images visibly transforming or resizing  Feat](https://github.com/AkarisDimitry/ImgSqueezifier/assets/34775621/dd130c3f-2683-4406-885c-62f1e65e9165)# 
+<img src="https://github.com/AkarisDimitry/ImgSqueezifier/assets/34775621/0468430a-58e6-4a69-af9f-f1b10f280a90" alt="DALL·E 2023-10-19 04 48 03 - Photo logo" width="200" height="200">
 Batch Image Resizer
 
 ## Overview
